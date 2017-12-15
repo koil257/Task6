@@ -5,8 +5,8 @@
 
 int main()
 {
-	char fname1[1000]; char fname2[1000]; char c;
-	FILE* f = fopen("Archive.txt", "w");
+	char fname1[1000]; char fname2[1000]; char c; //массивы для ввода названий файлов
+	FILE* f = fopen("Archive.txt", "w"); //открытие (создание) файла-архива
 
 	//Выбор пользователем файлов
 	printf("Type the name of file1: ");
