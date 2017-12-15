@@ -1,7 +1,6 @@
 //Салыкина Дария, группа 108, семинар 7, задача 22
 # include <stdlib.h>
 # include <stdio.h>
-# pragma warning(disable:4996)
 
 int main()
 {
